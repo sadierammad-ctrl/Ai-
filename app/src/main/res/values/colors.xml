@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="baby_navy_black">#FF050816</color>
+    <color name="baby_deep_navy">#FF0A102A</color>
+    <color name="baby_cyan">#FF00D4FF</color>
+    <color name="baby_purple">#FF9D4EDD</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BABY AI</string>
+    <string name="app_tagline">Your Smart AI Companion</string>
+    <string name="opening_greeting_bn">হেই বেবি! আমি তোমার BABY AI। বলো, কী করতে পারি?</string>
+    <string name="voice_greeting_bn">হেই বেবি! আমি শুনছি। বলো, কী করতে হবে?</string>
+    <string name="accessibility_service_label">BABY AI Screen Assistant</string>
+    <string name="accessibility_service_description">Optional user-authorized assistant to help navigate back, home, recents, and scroll on your explicit request. Never reads passwords, OTPs, or payment screens.</string>
+    <string name="keyboard_service_label">BABY AI Voice Keyboard</string>
+    <string name="keyboard_subtype_bengali">BABY AI Voice (Bengali)</string>
+    <string name="keyboard_subtype_english">BABY AI Voice (English)</string>
+    <string name="live_wallpaper_label">BABY AI Galaxy Orb</string>
+    <string name="live_wallpaper_description">Futuristic dark cosmic galaxy with glowing blue and purple particles and animated BABY AI orb.</string>
+    <string name="notification_listener_label">BABY AI Notification Reader</string>
+    <string name="wake_word_channel_name">BABY AI Wake-Word Listening</string>
+    <string name="wake_word_notification_title">BABY AI is listening for "Hey Baby"</string>
+    <string name="wake_word_notification_text">Microphone active for wake phrase. Tap Stop Listening anytime.</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="firebase_required_notice">Sample AI Mode — Enable Firebase AI Logic in AI Studio for live Gemini responses.</string>
+</resources>
